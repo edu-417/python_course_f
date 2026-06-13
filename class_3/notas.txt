@@ -1,0 +1,3 @@
+Primera nota: Python es genial.
+Segunda nota: Los archivos son útiles.
+Tercera nota: Practicar es la clave.

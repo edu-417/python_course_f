@@ -5,11 +5,11 @@
 #         InstanceCounter.num_instances += 1
 
 
-# class Dog:
-#     specie = 'canis familiaris'
+class Dog:
+    specie = 'canis familiaris'
 
-#     def __init__(self, name: str):
-#         self.name = name
+    def __init__(self, name: str):
+        self.name = name
 
 
 class InstanceCounter:
